@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994476588626",
+    "project_id": "drive-safety-app-6161b",
+    "storage_bucket": "drive-safety-app-6161b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994476588626:android:8904b6a07b807dc9f4298b",
+        "android_client_info": {
+          "package_name": "com.devshiv.drivesafetyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKH3DdwOkV0wn8XwL87gL4ixS1wwb_E5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
